@@ -1,0 +1,16 @@
+info:
+  app:
+    name: "Serviço TesteAPI"
+    version: "0.0.1.SNAPSHOT"
+    description: "Teste da API Marvel"
+
+debug: false
+
+TestesApi:
+  urlListarCharacter: "https://gateway.marvel.com:443/v1/public/characters?ts=1&apikey=96c88fa24ca0e6c5fe37beb77459ddcd&hash=88fb09ca3e362e36e3f6dd10f8132ecd"
+  urlListarComics: "https://gateway.marvel.com:443/v1/public/comics?ts=1&apikey=96c88fa24ca0e6c5fe37beb77459ddcd&hash=88fb09ca3e362e36e3f6dd10f8132ecd"
+  urlListarCreators: "https://gateway.marvel.com:443/v1/public/creators?ts=1&apikey=96c88fa24ca0e6c5fe37beb77459ddcd&hash=88fb09ca3e362e36e3f6dd10f8132ecd"
+  urlListarEvents: "https://gateway.marvel.com:443/v1/public/events?ts=1&apikey=96c88fa24ca0e6c5fe37beb77459ddcd&hash=88fb09ca3e362e36e3f6dd10f8132ecd"
+  urlListarSeries: "https://gateway.marvel.com:443/v1/public/series?ts=1&apikey=96c88fa24ca0e6c5fe37beb77459ddcd&hash=88fb09ca3e362e36e3f6dd10f8132ecd"
+  urlListarStories: "https://gateway.marvel.com:443/v1/public/stories?ts=1&apikey=96c88fa24ca0e6c5fe37beb77459ddcd&hash=88fb09ca3e362e36e3f6dd10f8132ecd"
+
