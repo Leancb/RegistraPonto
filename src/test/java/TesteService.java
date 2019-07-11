@@ -123,4 +123,6 @@ public class TesteService {
 
         Assert.assertEquals(testeApiModelCaracters.getStatus(), "Ok");
     }
+    
+    [![Build Status](https://travis-ci.org/Leancb/RegistraPonto.svg?branch=master)](https://travis-ci.org/Leancb/RegistraPonto)
 }
